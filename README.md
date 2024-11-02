@@ -8,7 +8,7 @@ On My Grind is a Wordle-inspired app that allows you to learn coffee drink recip
 
 ## Screenshots
 
-![]
+![](https://github.com/aadilq/On-My-Grind/blob/main/src/assets/Screenshot%202024-11-02%20at%206.17.25%20PM.png)
 ## Features
 
 - Utilizes React forms to handle complex input with the use of arrays and objects as useStates 
